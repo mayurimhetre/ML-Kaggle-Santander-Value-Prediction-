@@ -1,1 +1,3 @@
-# ML-Kaggle-Santander-Value-Prediction-
+# ML-Kaggle-Santander-Value-Prediction
+
+The Santander Value Prediction Challenge dataset is from a Kaggle competition where the goal is to predict the monetary value of future customer transactions for Santander Bank. The data consists of anonymized numerical features for each customer along with a continuous target variable representing the transaction value, making it a regression problem. The dataset is split into a training set with labels and a test set without target values, and it contains thousands of anonymized feature columns that require feature engineering and modeling to achieve good predictions. The competition uses the RMSLE (Root Mean Squared Logarithmic Error) as the evaluation metric to measure prediction accuracy. This dataset is commonly used to practice advanced preprocessing, feature selection, and regression modeling techniques.
